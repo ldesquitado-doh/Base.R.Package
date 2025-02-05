@@ -1,5 +1,5 @@
 Package: Base.R.Package
-Title: What the Package Does (One Line, Title Case)
+Title: The bare minimum for an R package
 Version: 0.0.0.9000
 Authors@R: 
     person("First", "Last", , "first.last@example.com", role = c("aut", "cre"))
